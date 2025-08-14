@@ -1,5 +1,5 @@
 # Higher_education_research
-Published through International Conference on Intelligent Computing and Data Analysis (ICDA 2025)
+【Paper】 http://arxiv.org/abs/2508.09216
 
 # Research on Quality Measurement and Dynamic Transmission of Higher Education in China from the Perspective of Dual Circulation: An Empirical Analysis Based on Entropy Weight-TOPSIS and PVAR Models
 
